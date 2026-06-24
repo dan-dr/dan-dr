@@ -1,11 +1,10 @@
 # Hi, I'm Dan 👋
 
-Building tools for gamers, developers, and anyone tired of solo queueing.
+Generalist. Building tools for gamers, developers, and anyone tired of solo queueing.
 
-- 🏢 **Gankster** — [gankster.gg](https://gankster.gg) · duo finder & LFG for competitive gaming
-- 🌐 **BestHosting Network** — [besthosting.network](https://besthosting.network) · game server hosting comparison sites
-- 📝 **Blog** — [dan.rosensha.in](https://dan.rosensha.in)
-- 🐦 **Twitter** — [@dan_ddyo](https://twitter.com/dan_ddyo)
+- **Co-founder - Gankster** — [gankster.gg](https://gankster.gg) · duo finder & LFG for competitive gaming
+- **Bootstrapped - BestHosting Network** — [besthosting.network](https://besthosting.network) · game server hosting comparison site network
+- **X** — [@dan_ddyo](https://twitter.com/dan_ddyo)
 
 ---
 
