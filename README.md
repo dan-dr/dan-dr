@@ -17,23 +17,12 @@ Building tools for gamers, developers, and anyone tired of solo queueing.
 | [**BIDME.md**](https://github.com/dan-dr/BIDME.md) | Auction-based README sponsorships — let companies bid for banner space |
 | [**compossador**](https://github.com/dan-dr/compossador) | Lightweight Docker Compose port ambassador sidecar |
 | [**stremio-stack**](https://github.com/dan-dr/stremio-stack) | Self-hosted Stremio addon stack behind Tailscale |
-| [**agents.md**](https://github.com/dan-dr/agents.md) | Curated collection of `AGENTS.md` files for inspiration |
 | [**metaless**](https://github.com/dan-dr/metaless) | Free your Limitless Pendant from Meta's cloud |
 
 ---
 
-## More repos
-
-- [**bidme-test**](https://github.com/dan-dr/bidme-test) — BidMe sandbox & integration testbed
-- [**will.aire.place**](https://github.com/dan-dr/will.aire.place)
+## Older stuff
 - [**pseudo-styled-system**](https://github.com/dan-dr/pseudo-styled-system) — Pseudo-style support for styled-system
-- [**itm2wgs84**](https://github.com/dan-dr/itm2wgs84) — Irish Transverse Mercator ↔ WGS84 conversion
-
----
-
-## Stack
-
-`TypeScript` · `JavaScript` · `Swift` · `Kotlin` · `Java` · `Shell` · `Docker` · `AWS`
 
 ---
 
