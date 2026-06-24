@@ -1,10 +1,7 @@
-# Hi, I'm Dan 👋
-
-Generalist. Building tools for gamers, developers, and anyone tired of solo queueing.
-
+Generalist. Bootstrapped and funded founder. I like building stuff.
 - **Co-founder - Gankster** — [gankster.gg](https://gankster.gg) · duo finder & LFG for competitive gaming
 - **Bootstrapped - BestHosting Network** — [besthosting.network](https://besthosting.network) · game server hosting comparison site network
-- **X** — [@dan_ddyo](https://twitter.com/dan_ddyo)
+- **Follow on X** — [@dan_ddyo](https://twitter.com/dan_ddyo)
 
 ---
 
