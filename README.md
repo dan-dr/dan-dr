@@ -1,7 +1,9 @@
 Generalist. Bootstrapped and funded founder. I like building stuff.
 
 **(ex)Co-founder & CTO - Gankster** — [gankster.gg](https://gankster.gg) · duo finder & LFG for competitive gaming
+
 **Bootstrapped - BestHosting Network** — [besthosting.network](https://besthosting.network) · game server hosting comparison site network
+
 **Writings** - https://dan.rosensha.in
 
 <a href="https://x.com/dan_ddyo"><img src="https://img.shields.io/badge/dan__ddyo-000000?style=flat&logo=x&logoColor=white" alt="Follow on X" /></a>
