@@ -1,6 +1,13 @@
-![Dan Rosenshain — generalist founder and builder](https://capsule-render.vercel.app/api?type=waving&color=0:123D32,100:4EA76D&height=230&section=header&text=Dan%20Rosenshain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20things%20that%20remove%20friction.&descAlignY=56&descSize=18)
-
 <div align="center">
+
+<h1>Dan Rosenshain</h1>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Recursive&amp;size=24&amp;duration=1&amp;pause=999999&amp;color=4EA76D&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=900&amp;height=70&amp;lines=I+build+things+that+remove+friction." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://readme-typing-svg.demolab.com?font=Recursive&amp;size=24&amp;duration=1&amp;pause=999999&amp;color=123D32&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=900&amp;height=70&amp;lines=I+build+things+that+remove+friction." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Recursive&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=4EA76D&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=70&amp;lines=Founder+who+still+ships.;Developer+tools+%C2%B7+agents+%C2%B7+infrastructure.;I+build+things+that+remove+friction." />
+  <img src="https://readme-typing-svg.demolab.com?font=Recursive&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=123D32&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=70&amp;lines=Founder+who+still+ships.;Developer+tools+%C2%B7+agents+%C2%B7+infrastructure.;I+build+things+that+remove+friction." width="100%" alt="Founder who still ships. Developer tools, agents, and infrastructure. I build things that remove friction." />
+</picture>
 
 **Generalist · bootstrapped and funded founder · builder of useful things**
 
