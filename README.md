@@ -15,7 +15,6 @@ Generalist. Bootstrapped and funded founder. I like building stuff.
 | Project | What it is |
 | --- | --- |
 | [**tweet-unyeet**](https://github.com/dan-dr/tweet-unyeet) | Chrome extension that saves recently viewed tweets from your X home timeline |
-| [**dan.rosensha.in**](https://github.com/dan-dr/dan.rosensha.in) | AstroPaper v6 blog for dan.rosenshain.in |
 | [**explodex**](https://github.com/dan-dr/explodex) | Plugin SDK & modding playground for the Codex desktop app |
 | [**BIDME.md**](https://github.com/dan-dr/BIDME.md) | Auction-based README sponsorships - let companies bid for banner space |
 | [**compossador**](https://github.com/dan-dr/compossador) | Lightweight Docker Compose port ambassador sidecar |
