@@ -14,7 +14,6 @@ Generalist. Bootstrapped and funded founder. I like building stuff.
 
 | Project | What it is |
 | --- | --- |
-| [**homebrew-tap**](https://github.com/dan-dr/homebrew-tap) | Homebrew tap for dan-dr macOS apps and tools |
 | [**aquarium**](https://github.com/dan-dr/aquarium) | Per-hotkey language routing for Aqua Voice on macOS |
 | [**qmk_userspace**](https://github.com/dan-dr/qmk_userspace) | My custom keyboardsm QMK keymaps and tools |
 | [**tweet-unyeet**](https://github.com/dan-dr/tweet-unyeet) | Chrome extension that saves recently viewed tweets from your X home timeline |
