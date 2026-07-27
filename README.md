@@ -14,6 +14,7 @@ Generalist. Bootstrapped and funded founder. I like building stuff.
 
 | Project | What it is |
 | --- | --- |
+| [**aquarium**](https://github.com/dan-dr/aquarium) | Per-hotkey language routing for Aqua Voice on macOS |
 | [**qmk_userspace**](https://github.com/dan-dr/qmk_userspace) | My custom keyboardsm QMK keymaps and tools |
 | [**tweet-unyeet**](https://github.com/dan-dr/tweet-unyeet) | Chrome extension that saves recently viewed tweets from your X home timeline |
 | [**explodex**](https://github.com/dan-dr/explodex) | Plugin SDK & modding playground for the Codex desktop app |
